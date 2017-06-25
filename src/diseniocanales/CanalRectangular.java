@@ -69,9 +69,9 @@ DecimalFormat df = new DecimalFormat("0.0000");
             }
         });
 
-        jLabel2.setText("Base:");
+        jLabel2.setText("Base (m):");
 
-        jLabel5.setText("Altura:");
+        jLabel5.setText("Profundidad (m)");
 
         jLabel6.setText("Pendiente:");
 
